@@ -5,7 +5,7 @@ const projects = [
     description:
       "Catálogo web desarrollado para un emprendimiento, con una interfaz moderna y adaptable.",
     technologies: ["Vue.js", "CSS"],
-    image: "/catalogo.jpeg",
+    image: `${import.meta.env.BASE_URL}catalogo.jpeg`,
     demo: "https://naav2004.github.io/Pulsos_Mau/",
     github: "https://github.com/Naav2004/Pulsos_Mau"
   },
