@@ -84,7 +84,7 @@ h2 {
   min-height: 60vh;
   padding: 100px 20%;
   text-align: center;
-  background: #1e293b;
+  background: #161b3a;
 }
 
 .about h2 {
@@ -121,7 +121,7 @@ h2 {
 
 .skill {
   padding: 30px;
-  background: #1e293b;
+  background: #161b3a;
   border-radius: 12px;
   font-size: 20px;
   font-weight: bold;
@@ -134,7 +134,7 @@ h2 {
 
 .projects {
   padding: 100px 10%;
-  background: #1e293b;
+  background: #161b3a;
   text-align: center;
 }
 
@@ -154,7 +154,7 @@ h2 {
 
 .project-card {
   background: #0f172a;
-  border: 1px solid #334155;
+  border: 1px solid #2a2f5c;
   border-radius: 16px;
   overflow: hidden;
   text-align: left;
@@ -183,7 +183,7 @@ h2 {
   height: 220px;
   overflow: hidden;
 
-  background: #334155;
+  background: #232a52;
   font-size: 24px;
   font-weight: bold;
 }
@@ -216,7 +216,7 @@ h2 {
 .technologies span {
   padding: 6px 12px;
   border-radius: 20px;
-  background: #334155;
+  background: #232a52;
   color: #cbd5e1;
   font-size: 14px;
 }
