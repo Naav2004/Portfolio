@@ -9,6 +9,15 @@ const projects = [
     demo: "https://naav2004.github.io/Pulsos_Mau/",
     github: "https://github.com/Naav2004/Pulsos_Mau"
   },
+ {
+  title: "Marketplace Multi-vendedor",
+  description:
+    "Marketplace full-stack donde vendedores independientes crean su catálogo, suben productos con fotos, y los compradores exploran por categoría. Backend propio con autenticación JWT, control de permisos por dueño y por rol, y subida de imágenes a Cloudinary.",
+  technologies: ["Vue.js", "Node.js", "Express", "PostgreSQL", "Prisma"],
+  image: `${import.meta.env.BASE_URL}marketplace.png`,
+  demo: "https://market-place-frontend-five.vercel.app/",
+  github: "https://github.com/Naav2004/market-place-frontend"
+},
 ]
 </script>
 
